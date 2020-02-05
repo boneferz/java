@@ -1,4 +1,4 @@
-# Java Developer ТЕОРИЯ
+# Java  
 
 + [ООП](#ООП) ![icon][done]
 + [Java Core](#java-core) ![icon][done]
