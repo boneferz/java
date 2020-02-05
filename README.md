@@ -1,4 +1,4 @@
-# Вопросы для собеседования на Java Developer
+# Java Developer ТЕОРИЯ
 
 + [ООП](#ООП) ![icon][done]
 + [Java Core](#java-core) ![icon][done]
